@@ -1,0 +1,12 @@
+1) command to create a react project 
+    npx create-react-app netflix-gpt
+
+2) Start your project on http://localhost:3000
+    npm run start
+
+3) Setup Tailwind for CSS:
+    https://tailwindcss.com/docs/guides/create-react-app
+
+    a) npm install -D tailwindcss
+    b) npx tailwindcss init
+
