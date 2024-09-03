@@ -3,7 +3,21 @@
 - Create React App
 - Configured TailwindCSS
 - Header
+- Routing of App
 - Login Form
+- Signup Form
+- Form Validation
+- useRef Hook
+- Firebase Setup
+- Deploying our app to production
+- Create SignUp User Account
+
+# Setup for Deployment on Firebase
+
+1) Install firebase CLI - `npm install -g firebase-tools`
+2) Firebase Login - `firebase login`
+3) Initialize Firebase - `firebase hit` , then select Hosting
+4) Deploy command - `firebase deploy`
 
 # Features
  - Login/Sign Up
