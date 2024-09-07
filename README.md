@@ -11,6 +11,11 @@
 - Firebase Setup
 - Deploying our app to production
 - Create SignUp User Account
+- Implement Sign In User API
+- Created Redux Store with userSlice
+- Implemented signout
+- Update Profile
+- Fetch from TMDB Movies
 
 # Setup for Deployment on Firebase
 
@@ -18,6 +23,9 @@
 2) Firebase Login - `firebase login`
 3) Initialize Firebase - `firebase hit` , then select Hosting
 4) Deploy command - `firebase deploy`
+
+npm i -D @reduxjs/toolkit
+npm i react-redux
 
 # Features
  - Login/Sign Up
